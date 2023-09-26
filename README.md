@@ -1,0 +1,8 @@
+# Gas-phase-SN2-reaction
+This project focuses on the thermodynamic aspects of stationary points in gas-phase reactions involving various reactants and fluoride ions. The computational analysis conducted in this study has led to a comprehensive understanding of the following key aspects:
+1. _Determining Reactant and Product Stability:_  To assess the relative stability of reactants and products, we employed different theoretical methods, including HF, DFT(B3LYP), and MP2, in conjunction with a 6-31+G(d) basis set. The reactants and products were optimized using Gaussian 09W and visualized using Avogadro and Gauss View. By comparing the energies calculated at different theoretical levels, we gained insights into their relative stability.
+2. _Relating Relative Stability to Enthalpy:_ The relative stability of species corresponds to their enthalpy in the reaction. Once we obtained computational results for the enthalpy of the specific SN2 reactions in the gas phase, we compared these results with experimental data obtained from prior research.
+3. _Calculating Activation Barriers:_ We determined the net activation barriers for both the forward and reverse reactions by optimizing the transition state.
+
+The reactant complexes can be categorized into two groups: those primarily characterized by electrostatic interactions and those displaying significant covalent character, as observed. On the other hand, all product complexes follow the general pattern primarily exhibiting electrostatic interactions.
+Throughout the study, we thoroughly examined these topics and recorded our observations with appropriate illustrations and discussions as needed.
